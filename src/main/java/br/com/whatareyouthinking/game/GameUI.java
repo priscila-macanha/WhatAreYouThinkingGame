@@ -1,4 +1,4 @@
-package br.com.whatareyouthink.game;
+package br.com.whatareyouthinking.game;
 
 import br.com.whatareyouthinking.tree.DecisionTree;
 import br.com.whatareyouthinking.tree.Node;
